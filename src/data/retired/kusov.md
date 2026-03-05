@@ -1,4 +1,3 @@
-
 ---
 title: Владимир Святославович Кусов
 tableOfContents: false
